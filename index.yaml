@@ -2,23 +2,17 @@
 # https://github.com/srid/emanote/blob/master/emanote/default/index.yaml
 
 page:
-  siteTitle: Emanote Template
+  siteTitle: Notes
 
 template:
-  theme: red
+  theme: blue
 
-  # You can add your own variables here, like editBaseUrl.
+  baseUrl: https://Crystalix007.github.io/notes/
+
   # See after-note.tpl to see where editBaseUrl gets used.
-  editBaseUrl: https://github.com/srid/emanote-template/edit/master
-
-  # Uncomment this to get neuron-style pages
-  # name: /templates/layouts/note
-  # layout:
-  #   note:
-  #     containerClass: container mx-auto max-w-screen-lg
+  editBaseUrl: https://github.com/Crystalix007/notes/edit/master
 
   sidebar:
     collapsed: false
 
-  # If you are hosting on GitLab Pages, you may want to remove this.
   urlStrategy: pretty
