@@ -7,7 +7,7 @@ page:
 template:
   theme: blue
 
-  baseUrl: https://Crystalix007.github.io/notes/
+  baseUrl: /notes
 
   # See after-note.tpl to see where editBaseUrl gets used.
   editBaseUrl: https://github.com/Crystalix007/notes/edit/master
